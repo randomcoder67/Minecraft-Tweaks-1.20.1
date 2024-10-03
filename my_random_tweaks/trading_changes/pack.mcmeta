@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "A port of the 1.20.2 experimental villager trading rebalance to 1.20.1"
+    }
+}

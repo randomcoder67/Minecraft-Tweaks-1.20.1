@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+	"#": {
+		"item": "minecraft:gunpoweder"
+	},
+	"P": {
+		"item": "minecraft:paper"
+	},
+	"D": {
+		"item": "minecraft:dragon_breath"
+	}
+  },
+  "pattern": [
+    " P ",
+    "P#P",
+    "#D#"
+  ],
+  "result": {
+    "count": 9,
+    "item": "minecraft:firework_rocket"
+  }
+}
