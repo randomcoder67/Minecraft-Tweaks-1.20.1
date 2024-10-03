@@ -67,6 +67,6 @@ This repo also includes patch files and setup scripts for stripped down versions
 
 ## Credit
 
-[Survivor's Elegy](https://modrinth.com/datapack/the-creepers-code/)
-[The Creepers Code](https://modrinth.com/datapack/the-creepers-code/)
-The idea to add Dragon's Breath to the firework recipe came from [this spreadsheet](https://docs.google.com/spreadsheets/d/1GPK2IOdGirgTR_YKHYOnjz0GW97Av5skuEqbchvwC9I/edit?gid=528113169#gid=528113169), which comes from a mod being produced by Green_Jab. Check out his [I Fixed Survival Minecraft](https://www.youtube.com/playlist?list=PL44mfp_pkflfYxJ6lURxL04sJPHFpKC04) series.
+[Survivor's Elegy](https://modrinth.com/datapack/the-creepers-code/)  
+[The Creepers Code](https://modrinth.com/datapack/the-creepers-code/)  
+The idea to add Dragon's Breath to the firework recipe came from [this spreadsheet](https://docs.google.com/spreadsheets/d/1GPK2IOdGirgTR_YKHYOnjz0GW97Av5skuEqbchvwC9I/edit?gid=528113169#gid=528113169), which comes from a mod being produced by Green_Jab. Check out his [I Fixed Survival Minecraft](https://www.youtube.com/playlist?list=PL44mfp_pkflfYxJ6lURxL04sJPHFpKC04) series.  
